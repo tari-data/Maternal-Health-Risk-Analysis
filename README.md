@@ -15,34 +15,34 @@ Through a detailed analysis of a representative maternal health dataset, the goa
 
 ---
 
-### Home Overview
-### 📊 General Statistics
- - Total Cases Reported: 10,000 cases
- - Case Fatality Rate: 49.75% — nearly 1 in 2 reported cases result in death, which is alarmingly high.
- - Confirmed Cases: 50.33%, indicating only half of reported cases are officially confirmed.
- - Average Reporting Delay: 5.03 days, which could significantly hinder timely outbreak response.
+## Maternal Health
+(Maternal Health Dashboard)
+ - Total Healthy Birth Outcome: 7.07k healthy births
+ - Maternal Mortality Rate: 7.06k deaths per 100,000 live births
+ - Total Birth Complications: 2.47k birth complications 
+ - Average number of Children Per Woman : 3 children 
+ - Maternal Death by Age Group: Highest death (144 deaths) seen in 40-45 age group and the lowest death (44) seen in age group 25-29
+ - Leading Cause of Maternal Death: The leading cause of death is hemorrhage (122) and the least is HIV/AIDS (23)
+ - Delivery Method Distribution: 85.6% delivered through the vaginal route and 14.4% through cesarean section 
+ - Monthly Death Trends: Ocrober had the highest death count of 56
+ - Deaths by Household Income: Low income household had the highest death count of 288, middle income having 16o and high income household having 51 death counts
 
-### 📈 Monthly Trends
-- Peak fatalities were recorded in July (443 deaths) followed by August (433) while April (373) had the lowest number of reported deaths. Despite fluctuations, the overall trend shows sustained high mortality through mid-year.
-
----
-### Demographic Dashboard
-### 🧑‍🤝‍🧑 Demographics
- Middle-aged individuals (3,348 cases) report slightly more cases than the young (3,422) and old (3,230), indicating a fairly even spread.However, young individuals have the highest number of deaths (1,709), making them the most vulnerable group.
-
-### 🧬 Gender-Based Analysis
- Reports are nearly evenly split with Male (5,020) vs. Female (4,980) and Fatality rates are almost identical with Male: 50.41% and Female: 49.59%. Gender does not appear to be a major factor in mortality.
-
-### 🦠 Disease-Specific Trends
-The top 3 diseases by total deaths are Malaria (1,031), Rubella (1,026) and Ebola (1,015) with Lassa Fever having the shortest average delay (4.84 days), while Rubella has the longest (5.11 days). Most diseases show similar reporting delays (~5 days), suggesting a system-wide lag in case reporting.
-
----
-### Location Dashboard
-The highest count of cases was recorded in Oyo state (1042 cases) with Borno state having the longest report day of 5.14days. 512 deaths in Rivers, indicating either a severe outbreat or late reporting and 531 confirmed cases in Kano, showing strong detection but possibly still high transmission!
+ - Insight: Maternal mortality in the observed population is critically high, reaching 7,060 deaths per 100,000 live births, far exceeding global health benchmarks and indicating an urgent need for systemic interventions. With 2,470 birth complications, nearly one in three births encounter health issues, pointing to significant gaps in prenatal care and skilled delivery services. The average fertility rate of 3 children per woman continues to place pressure on healthcare systems, especially in under-resourced areas. Women aged 40–45 account for the highest maternal deaths (144), while the lowest (44 deaths) occurs among those aged 25–29, reinforcing the increased risk associated with advanced maternal age. Hemorrhage is the leading cause of death (122 cases), suggesting that many deaths are preventable with timely obstetric care, while HIV/AIDS accounts for the least (23 deaths). Notably, 85.6% of deliveries are by vaginal route , far above WHO recommendations. A spike in deaths during October (56 fatalities) may reflect seasonal vulnerabilities or systemic strain, warranting closer investigation. Lastly, maternal deaths are disproportionately higher among low-income households (288 deaths) compared to middle-income (160) and high-income households (51), highlighting severe healthcare inequities and the necessity for targeted support in vulnerable communities.
 
 ---
 
-## Recommendations 
+## Facility Status
+(Facility Dashboard)
+- Prenatal Care Coverage: 89.85% coverage
+- Postnatal Care Coverage: 70.91% coverage
+- Avg Monthly Antenatal Visits: 5 visits
+- Facility Readiness Index: 34.09%
+- Maternal Death Rates by Skilled Birth Attendants: The highest death rate was recorded in cases of a present skilled birth attendant(56.11%)
+- Maternal Deaths by Total Antenatal Visits: the highest maternal death rate recorded in women with 8+ (135) antenal visits and lowest with women with 0-1 visits (46)
+- Maternal Deaths by Facility Readiness Level: Ready facility with the highest death of 173, partially ready with 169 and a facilatity not ready with 157
+- Total Deaths per Month: The highest death occurred in September (56) and the Least count of death in June(35)
+  
+- Insight : Despite high prenatal (89.85%) and postnatal (70.91%) care coverage, maternal deaths remain high, suggesting care quality issues. Surprisingly, more deaths occurred among women with 8+ antenatal visits, possibly due to underlying complications. Facilities with higher readiness still recorded the most deaths, indicating that infrastructure alone doesn't guarantee better outcomes. Deaths were also highest where skilled birth attendants were present, pointing to potential issues in emergency response or late-stage interventions. Maternal deaths peaked in September and were lowest in June, hinting at possible seasonal or systemic influences.
 
 ---
 

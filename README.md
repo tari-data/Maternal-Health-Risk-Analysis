@@ -6,8 +6,9 @@ This analysis provides insights on key maternal health indicators to uncover ris
 ---
 
 ## Problem Statement
-Nigeria faces an alarming maternal mortality rate of 1,047 deaths per 100,000 live births, which is over 14 times higher than the World Health Organization’s recommended threshold of fewer than 70 deaths. This staggering disparity reflects deep-rooted social, economic, and healthcare system challenges that disproportionately affect women—especially in rural and underserved communities.
+Nigeria faces an alarming maternal mortality rate of 1,047 deaths per 100,000 live births, which is over 14 times higher than the World Health Organizations's recommended threshold of fewer than 70 deaths. This staggering disparity reflects deep-rooted social,economic, and healthcare system challenges that disproportionality affect women especially in rural and undeserved communities.
 Through a detailed analysis of a representative maternal health dataset, the goal of this project is to uncover the key drivers behind the crisis, including limited access to skilled birth attendants, insufficient prenatal care, poverty, and inadequate healthcare infrastructure. It also presents data-driven insights and actionable recommendations aimed at reducing maternal deaths and supporting long-term policy interventions for improved maternal health outcomes in Nigeria.
+
 ---
 
 ## Data Analysis

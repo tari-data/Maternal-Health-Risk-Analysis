@@ -12,7 +12,7 @@ Through a detailed analysis of a representative maternal health dataset, the goa
 ---
 ## 📊 Power BI Dashboard
 
-[👉 Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=https://app.powerbi.com/view?r=eyJrIjoiY2JkYmM3ZTYtNzhiNS00NDYwLWJlZTUtYjE5OWNjMzAzYzg1IiwidCI6IjVkOWEzNTAwLWRkMjAtNDBhYi1iMTg3LTVhYmE3YTliZGVjNyJ9)
+[👉 Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2JkYmM3ZTYtNzhiNS00NDYwLWJlZTUtYjE5OWNjMzAzYzg1IiwidCI6IjVkOWEzNTAwLWRkMjAtNDBhYi1iMTg3LTVhYmE3YTliZGVjNyJ9)
 
 ---
 

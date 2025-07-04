@@ -10,6 +10,11 @@ Nigeria faces an alarming maternal mortality rate of 1,047 deaths per 100,000 li
 Through a detailed analysis of a representative maternal health dataset, the goal of this project is to uncover the key drivers behind the crisis, including limited access to skilled birth attendants, insufficient prenatal care, poverty, and inadequate healthcare infrastructure. It also presents data-driven insights and actionable recommendations aimed at reducing maternal deaths and supporting long-term policy interventions for improved maternal health outcomes in Nigeria.
 
 ---
+## 📊 Power BI Dashboard
+
+[👉 Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=https://app.powerbi.com/view?r=eyJrIjoiY2JkYmM3ZTYtNzhiNS00NDYwLWJlZTUtYjE5OWNjMzAzYzg1IiwidCI6IjVkOWEzNTAwLWRkMjAtNDBhYi1iMTg3LTVhYmE3YTliZGVjNyJ9)
+
+---
 
 ## Data Analysis
 
@@ -66,6 +71,13 @@ Even partially ready and unready facilities report high maternal deaths. Ensure 
 📅 6. Plan for Seasonal Spikes in Deaths
 With September showing the highest deaths 📈, examine staffing, disease outbreaks, or access barriers during this period. Implement seasonal health preparedness plans including outreach, staffing, and supply boosts.
 
+---
+
+# Conclusion
+Maternal health surveillance reveals that while service coverage is relatively high, poor care quality, delayed emergency response, and systemic gaps continue to drive preventable maternal deaths. Addressing these issues through improved facility readiness, skilled workforce support, and targeted interventions is essential to reduce mortality and ensure safer outcomes for mothers in Nigeria.
+
+---
+
 ## Tools Used
 
 - **PowerBI**
@@ -75,7 +87,3 @@ With September showing the highest deaths 📈, examine staffing, disease outbre
 
 ---
 
-# Conclusion
-Maternal health surveillance reveals that while service coverage is relatively high, poor care quality, delayed emergency response, and systemic gaps continue to drive preventable maternal deaths. Addressing these issues through improved facility readiness, skilled workforce support, and targeted interventions is essential to reduce mortality and ensure safer outcomes for mothers in Nigeria.
-
----

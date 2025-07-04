@@ -75,4 +75,7 @@ With September showing the highest deaths 📈, examine staffing, disease outbre
 
 ---
 
+# Conclusion
+Maternal health surveillance reveals that while service coverage is relatively high, poor care quality, delayed emergency response, and systemic gaps continue to drive preventable maternal deaths. Addressing these issues through improved facility readiness, skilled workforce support, and targeted interventions is essential to reduce mortality and ensure safer outcomes for mothers in Nigeria.
 
+---

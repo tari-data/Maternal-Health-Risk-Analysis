@@ -1,4 +1,4 @@
-# Maternal-Health-Risk-Analysis
+# Maternal Health Risk Analysis
 
 ## Overview
 This analysis provides insights on key maternal health indicators to uncover risk factors, regional disparities, and service gaps affecting maternal outcomes in Nigeria. The objective is to provide data-driven insights that support policy development, targeted interventions, and improved maternal care delivery.
@@ -46,33 +46,32 @@ Through a detailed analysis of a representative maternal health dataset, the goa
 
 ---
 
-🏥 1. Enhance Early Detection & Reporting Systems
-Target reporting delay reduction to <48 hours, especially for high-fatality diseases like Malaria, Rubella, and Ebola. Implement automated reporting systems or mobile surveillance apps to reduce lag time.
+## Recommendations 
 
-🎯 2. Focus Interventions on Youth Populations
-Young individuals are disproportionately affected by fatalities. School-based health campaigns, immunization drives, and protection initiatives should be prioritized for this age group.
+🏥 1. Focus on Quality, Not Just Coverage
+Even with high prenatal (👶) and postnatal (🤱) care rates, deaths remain high. Prioritize quality of care through better training, supervision, and patient-centered services — not just checkboxes.
 
-📍 3. Deploy Region-Specific Interventions
-Increase testing centers and contact tracing capacity to identify sources while launching intensive health education campaigns to promote early reporting and prevention. Community surveillance should also be leveraged involving local healthcare workers for early symptom reporting.
+🔎 2. Investigate High-Risk Antenatal Patterns
+Women with 8+ antenatal visits 🗓️ are dying more often, which may indicate unmanaged high-risk pregnancies. Establish risk-tracking systems and create early intervention plans for women with complications.
 
-🧪 4. Improve Confirmation Rates
-With only 50% of cases confirmed, invest in more testing facilities and faster diagnostic tools. Ensure cases aren't going unverified, especially in rural areas.
+🚨 3. Strengthen Emergency Obstetric Care
+Facilities labeled “ready” 🏥 still show high death rates. Equip all delivery points with life-saving tools, blood supply, and rapid response protocols to handle complications quickly and effectively.
 
-🚻 5. Equalize Gender-Based Health Outreach
-While fatality rates are equal by gender, ensure balanced access to care, especially in regions with cultural or systemic bias.
+👩‍⚕️ 4. Audit Skilled Birth Attendant Effectiveness
+Deaths occurring even when skilled birth attendants 👩‍⚕️👨‍⚕️ are present suggest delays in care or poor decision-making. Conduct performance reviews, simulation-based training, and provide emergency response mentorship.
 
-📢 6. Policy Advocacy and Capacity Building
-Present these findings to health ministries and emergency response teams and push for investment in data infrastructure, real-time dashboards, and field response units.
+🧰 5. Upgrade Facility Readiness Across the Board
+Even partially ready and unready facilities report high maternal deaths. Ensure basic equipment, protocols, and emergency referral systems are in place at all healthcare levels, not just major centers.
 
-
-
+📅 6. Plan for Seasonal Spikes in Deaths
+With September showing the highest deaths 📈, examine staffing, disease outbreaks, or access barriers during this period. Implement seasonal health preparedness plans including outreach, staffing, and supply boosts.
 
 ## Tools Used
 
-- **Microsoft Excel**  
-  - PivotTables and Charts  
+- **PowerBI**
+  - Charts  
   - Slicers for interactive filtering  
-  - Conditional Formatting for alerting
+  - Powerquery
 
 ---
 
